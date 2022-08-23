@@ -21,9 +21,13 @@ Part 3 - CHECKPOINTS
 
 
 ✔ 1.10.2 CHECKPOINT: execute dice rolling terminal window and bar chart screenshot:
+
 ✔ 1.10.3 CHECKPOINT:  new notebook w/ name in the title (no spaces!) screenshot: 
+
 ✔ 2.9.1 CHECKPOINT: Execute fig02_02.py script that gets 3 user values and determines the minimum screenshot:
+
 ✔ 2.9.2 PROJECT:  Execute calc_max_yourname.py script that displays the maximum of 3 user-input values screenshot:
+
 ✔ 2.9.3 PROJECT: python_basics_yourname.ipynb screenshot:
 
 Optional - Bonus
